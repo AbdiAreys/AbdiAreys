@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AbdiAreys
+- 👀 I’m interested in Website Development
+- 🌱 I’m currently learning C++
+- 📫 Areys.abdirahman@gmail.com
