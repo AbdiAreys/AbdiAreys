@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @AbdiAreys
-- 👀 I’m interested in Website Development
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in Security Engineering and Analysis
+- 🌱 I’m currently learning Python
 - 📫 Areys.abdirahman@gmail.com
