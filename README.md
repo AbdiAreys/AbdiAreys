@@ -1,3 +1,3 @@
 Currently working on Vaultbuddy
-Localized and Educational Secret Manager
+A Localized and Educational,  Secret Manager
 
