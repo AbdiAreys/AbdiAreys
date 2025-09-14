@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @AbdiAreys
-- 👀 I’m interested in Security Engineering and Analysis
-- 🌱 I’m currently learning Python
-- 📫 Areys.abdirahman@gmail.com
+Currently working on Vaultbuddy
+Localized and Educational Secret Manager
+
